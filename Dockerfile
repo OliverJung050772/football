@@ -1,3 +1,5 @@
+# Fix für imaginären Bug ...
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
